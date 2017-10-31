@@ -1,4 +1,4 @@
-README file for eslong (20503353) - CS 349, Assignment 2
+README file for eslong
 
 Files
 	- JSketch.java: main file, creates custom frame and layout panel to house all functional panels
